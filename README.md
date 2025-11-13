@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Ntwari  
+💻 Full-Stack Developer | Node.js | MySQL | React | Express  
 
-<!--
-**10thPrince/10thPrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable web apps and business solutions.  
+🌍 Based in Kigali | Currently developing HealthSphere & SME Inventory SaaS  
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express, MySQL  
+- **Tools:** Git, Docker, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Current Projects
+- 🏥 **HealthSphere** — mobile health app improving healthcare access in Rwanda  
+- 🏢 **SME Inventory SaaS** — inventory management system for small businesses  
+
+### 📫 Contact Me
+- 📧 ntwariprinceh@gmail.com
+- 🌐 nprince.vercel.app
+- 💼 https://x.com/me_princ3
