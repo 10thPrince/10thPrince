@@ -11,14 +11,14 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntwariprince&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwariprince&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ntwariprince&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10thPrince&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10thPrince&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=10thPrince&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ntwariprince&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=10thPrince&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
