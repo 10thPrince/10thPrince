@@ -15,10 +15,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10thPrince&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=10thPrince&theme=tokyonight&hide_border=true)
 
----
-
-### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=10thPrince&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
